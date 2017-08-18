@@ -1,0 +1,34 @@
+{
+    "name": "zsh-koa-cli",
+    "version": "1.0.0",
+    "description": "koa project generator",
+    "bin": {
+        "zsh-koa": "bin/koa"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Myqilixiang/zsh-koa-cli.git"
+    },
+    "keywords": [
+        "koa"
+    ],
+    "author": "zsh",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Myqilixiang/zsh-koa-cli/issues"
+    },
+    "homepage": "https://github.com/Myqilixiang/zsh-koa-cli#readme",
+    "dependencies": {
+        "chalk": "^1.1.3",
+        "cli-table": "^0.3.1",
+        "commander": "^2.9.0",
+        "download-git-repo": "^1.0.0",
+        "handlebars": "^4.0.8",
+        "inquirer": "^3.0.6",
+        "metalsmith": "^2.3.0",
+        "ora": "^1.2.0"
+    }
+}
