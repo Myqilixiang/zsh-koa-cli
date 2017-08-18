@@ -4,6 +4,7 @@
 使用npm进行安装
 > npm install zsh-koa
 # 运行
-> zsh-koa init
 按照提示键入模板名称以及工程名称和保存路径
+> zsh-koa init
+
 
